@@ -10,6 +10,16 @@
     <packaging>pom</packaging>
     <modules>
         <module>springmvc-01-base-quick</module>
+        <module>springmvc-02-base-initializer</module>
+        <module>springmvc-03-base-request_mapping</module>
+        <module>springmvc-04-base-request_param</module>
+        <module>springmvc-05-base-path_variable</module>
+        <module>springmvc-06-base-request_body</module>
+        <module>springmvc-07-base-request_header_cookie</module>
+        <module>springmvc-08-base-share_domain</module>
+        <module>springmvc-09-base-output_jsp</module>
+        <module>springmvc-10-base-output_json</module>
+        <module>springmvc-11-base-output_static</module>
     </modules>
 
 
@@ -23,6 +33,12 @@
 
 
     <dependencies>
+        <!--
+            依赖的解释
+                web项目： servlet
+                ioc容器： spring-context
+                mvc框架： spring-webmvc
+        -->
         <!-- springioc相关依赖  -->
         <dependency>
             <groupId>org.springframework</groupId>
@@ -50,6 +66,26 @@
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
             <version>${spring.version}</version>
+        </dependency>
+
+        <!-- 处理json数据的依赖 -->
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+            <version>2.15.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.40</version>
+        </dependency>
+
+        <!-- jsp需要依赖! jstl-->
+        <dependency>
+            <groupId>jakarta.servlet.jsp.jstl</groupId>
+            <artifactId>jakarta.servlet.jsp.jstl-api</artifactId>
+            <version>3.0.0</version>
         </dependency>
 
     </dependencies>

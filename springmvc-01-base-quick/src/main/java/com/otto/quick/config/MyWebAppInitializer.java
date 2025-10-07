@@ -19,9 +19,9 @@ public class MyWebAppInitializer extends AbstractAnnotationConfigDispatcherServl
     }
 
     /**
-     * 设置项目的配置类
+     * 设置SpringMVC项目的配置类
      * 指定springmvc的配置类，这里是config.MVCConfiguration
-     * @return
+     *
      */
     @Override
     protected Class<?>[] getServletConfigClasses() {

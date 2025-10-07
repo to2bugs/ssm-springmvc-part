@@ -13,9 +13,9 @@ import org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandl
  *
  * Spring MVC 的配置类
  * 1. 将自定义的 controller 配置到ioc容器
- *      @ComponentScan(basePackages = "com.otto.quick.controller")
- * 2. 将 HandrleMapping 和 HandlerAdapter 配置到IOC容器
- *      @Bean
+ *      使用 @ComponentScan(basePackages = "com.otto.quick.controller")
+ * 2. 将 HandlerMapping 和 HandlerAdapter 配置到IOC容器
+ *      使用 @Bean RequestMappingHandlerMapping RequestMappingHandlerAdapter
  */
 @Configuration
 @ComponentScan(basePackages = "com.otto.quick.controller")

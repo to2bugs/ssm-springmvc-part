@@ -2,14 +2,72 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="springmvc-01-base-quick:war exploded" />
+      <artifact name="springmvc-11-base-output_static:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df0feee3-00ed-4b50-a31b-6d6fc48b637c" name="Changes" comment="" />
+    <list default="true" id="df0feee3-00ed-4b50-a31b-6d6fc48b637c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-02-base-initializer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-02-base-initializer/src/main/java/com/otto/initializer/JavaInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-02-base-initializer/src/main/java/com/otto/initializer/config/SpringMVCConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-02-base-initializer/src/main/java/com/otto/initializer/config/SpringMVCInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-02-base-initializer/src/main/java/com/otto/initializer/controller/OneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-03-base-request_mapping/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-03-base-request_mapping/src/main/java/com/otto/requestmapping/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-04-base-request_param/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-04-base-request_param/src/main/java/com/otto/param/config/SpringMVCConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-04-base-request_param/src/main/java/com/otto/param/config/SpringMVCInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-04-base-request_param/src/main/java/com/otto/param/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-04-base-request_param/src/main/java/com/otto/param/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-05-base-path_variable/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-05-base-path_variable/src/main/java/com/otto/path/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-05-base-path_variable/src/main/java/com/otto/path/config/SpringMVCConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-05-base-path_variable/src/main/java/com/otto/path/config/SpringMVCInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-05-base-path_variable/src/main/java/com/otto/path/controller/PathController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-06-base-request_body/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-06-base-request_body/src/main/java/com/otto/body/config/SpringMVCConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-06-base-request_body/src/main/java/com/otto/body/config/SpringMVCInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-06-base-request_body/src/main/java/com/otto/body/controller/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-06-base-request_body/src/main/java/com/otto/body/pojo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-07-base-request_header_cookie/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-07-base-request_header_cookie/src/main/java/com/otto/req/config/SpringMVCConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-07-base-request_header_cookie/src/main/java/com/otto/req/config/SpringMVCInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-07-base-request_header_cookie/src/main/java/com/otto/req/controller/CookieController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-07-base-request_header_cookie/src/main/java/com/otto/req/controller/HeaderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-07-base-request_header_cookie/src/main/java/com/otto/req/controller/HttpOriginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-08-base-share_domain/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-08-base-share_domain/src/main/java/com/otto/share/controller/SharedController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-08-base-share_domain/src/main/java/com/otto/share/dd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-09-base-output_jsp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-09-base-output_jsp/src/main/java/com/otto/output/config/SpringMVCConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-09-base-output_jsp/src/main/java/com/otto/output/config/SpringMVCInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-09-base-output_jsp/src/main/java/com/otto/output/controller/JspController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-09-base-output_jsp/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-10-base-output_json/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-10-base-output_json/src/main/java/com/otto/json/config/SpringMVCConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-10-base-output_json/src/main/java/com/otto/json/config/SpringMVCInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-10-base-output_json/src/main/java/com/otto/json/controller/JsonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-10-base-output_json/src/main/java/com/otto/json/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-11-base-output_static/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-11-base-output_static/src/main/java/com/otto/statics/config/SpringMVCConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-11-base-output_static/src/main/java/com/otto/statics/config/SpringMVCInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springmvc-11-base-output_static/src/main/webapp/imgs/01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_01_base_quick_war_exploded/WEB-INF/classes/com/otto/quick/config/MVCConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_01_base_quick_war_exploded/WEB-INF/classes/com/otto/quick/config/MVCConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_01_base_quick_war_exploded/WEB-INF/classes/com/otto/quick/config/MyWebAppInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_01_base_quick_war_exploded/WEB-INF/classes/com/otto/quick/config/MyWebAppInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springmvc_01_base_quick_war_exploded/WEB-INF/classes/com/otto/quick/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/springmvc_01_base_quick_war_exploded/WEB-INF/classes/com/otto/quick/controller/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-01-base-quick/springmvc-01-base-quick.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-01-base-quick/springmvc-01-base-quick.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-01-base-quick/src/main/java/com/otto/quick/config/MVCConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-01-base-quick/src/main/java/com/otto/quick/config/MVCConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmvc-01-base-quick/src/main/java/com/otto/quick/config/MyWebAppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmvc-01-base-quick/src/main/java/com/otto/quick/config/MyWebAppInitializer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,9 +76,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jsp File" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
@@ -40,6 +102,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="33ghVX8UBfTgMyDQ2hbYGrZsNlT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,27 +115,39 @@
     "Maven.ssm-springmvc-part [clean].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Tomcat Server.Tomcat 10.1.46.executor": "Run",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/to2bagezero/Downloads/ssm-springmvc-part/springmvc-11-base-output_static/src/main/webapp/imgs",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Artifacts",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "File.Encoding",
+    "project.structure.side.proportion": "0.3820483",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/springmvc-11-base-output_static/src/main/webapp/imgs" />
+      <recent name="$PROJECT_DIR$/springmvc-06-base-request_body/src/main/java/com/otto/body/config" />
+      <recent name="$PROJECT_DIR$/springmvc-05-base-path_variable/src/main/java/com/otto/path/config" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationStatuses">
       <map>
         <entry key="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
           <value>
             <map>
-              <entry key="Tomcat 10.1.46" value="FAILED" />
+              <entry key="Tomcat 10.1.46" value="STOPPED" />
             </map>
           </value>
         </entry>
@@ -81,9 +158,9 @@
     <configuration name="Tomcat 10.1.46" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.46" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="springmvc-01-base-quick:war exploded">
+        <artifact name="springmvc-11-base-output_static:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/springmvc_01_base_quick_war_exploded" />
+            <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
@@ -161,7 +238,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="springmvc-01-base-quick:war exploded" />
+          <artifact name="springmvc-11-base-output_static:war exploded" />
         </option>
       </method>
     </configuration>
@@ -189,7 +266,8 @@
       <workItem from="1759744647858" duration="1143000" />
       <workItem from="1759745809182" duration="309000" />
       <workItem from="1759746125915" duration="4408000" />
-      <workItem from="1759795574382" duration="1256000" />
+      <workItem from="1759795574382" duration="27128000" />
+      <workItem from="1759843133797" duration="1536000" />
     </task>
     <servers />
   </component>

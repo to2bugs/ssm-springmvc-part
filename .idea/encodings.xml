@@ -3,6 +3,28 @@
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/springmvc-01-base-quick/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springmvc-01-base-quick/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-02-base-initializer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-02-base-initializer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-03-base-request_mapping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-03-base-request_mapping/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-04-base-request_param/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-04-base-request_param/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-05-base-path_variable/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-05-base-path_variable/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-06-base-request_body/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-06-base-request_body/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-07-base-request_header_cookie/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-07-base-request_header_cookie/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-08-base-share_domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-08-base-share_domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-09-base-output_jsp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-09-base-output_jsp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-10-base-output_json/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-10-base-output_json/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-11-base-output_static/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-11-base-output_static/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-11-base-output_static_source/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springmvc-11-base-output_static_source/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
