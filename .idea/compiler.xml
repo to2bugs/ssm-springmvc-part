@@ -11,13 +11,17 @@
         <module name="springmvc-03-base-request_mapping" />
         <module name="springmvc-06-base-request_body" />
         <module name="springmvc-02-base-initializer" />
-        <module name="springmvc-07-base-request_header_cookie" />
         <module name="springmvc-09-base-output_jsp" />
         <module name="springmvc-11-base-output_static" />
-        <module name="springmvc-05-base-path_variable" />
         <module name="springmvc-08-base-share_domain" />
+        <module name="springmvc-13-other-global_exception" />
+        <module name="springmvc-07-base-request_header_cookie" />
+        <module name="springmvc-14-other-interceptor" />
+        <module name="springmvc-15-other-validation" />
+        <module name="springmvc-05-base-path_variable" />
         <module name="springmvc-10-base-output_json" />
         <module name="springmvc-04-base-request_param" />
+        <module name="springmvc-12-base-restful" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="17">
