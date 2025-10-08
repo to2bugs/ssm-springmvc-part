@@ -10,36 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df0feee3-00ed-4b50-a31b-6d6fc48b637c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/springmvc-12-base-restful/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-12-base-restful/src/main/java/com/otto/restful/config/SpringMVCConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-12-base-restful/src/main/java/com/otto/restful/config/SpringMVCInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-12-base-restful/src/main/java/com/otto/restful/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-12-base-restful/src/main/java/com/otto/restful/dd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-12-base-restful/src/main/java/com/otto/restful/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-13-other-global_exception/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-13-other-global_exception/src/main/java/com/otto/exp/config/SpringMVCConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-13-other-global_exception/src/main/java/com/otto/exp/config/SpringMVCInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-13-other-global_exception/src/main/java/com/otto/exp/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-13-other-global_exception/src/main/java/com/otto/exp/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-14-other-interceptor/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-14-other-interceptor/src/main/java/com/otto/interceptor/config/SpringMVCConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-14-other-interceptor/src/main/java/com/otto/interceptor/config/SpringMVCDispatcherServletInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-14-other-interceptor/src/main/java/com/otto/interceptor/controller/InterceptorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-14-other-interceptor/src/main/java/com/otto/interceptor/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-14-other-interceptor/src/main/java/com/otto/interceptor/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-14-other-interceptor/src/main/java/com/otto/interceptor/interceptor/MyInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-14-other-interceptor/src/main/java/com/otto/interceptor/interceptor/OneInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-14-other-interceptor/src/main/java/com/otto/interceptor/interceptor/ThreeInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-14-other-interceptor/src/main/java/com/otto/interceptor/interceptor/TwoInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-15-other-validation/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-15-other-validation/src/main/java/com/otto/validator/config/SpringMVCConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-15-other-validation/src/main/java/com/otto/validator/config/SpringMVCDispatcherServletInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-15-other-validation/src/main/java/com/otto/validator/controller/ValidateController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmvc-15-other-validation/src/main/java/com/otto/validator/pojo/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,7 +215,7 @@
       <workItem from="1759746125915" duration="4408000" />
       <workItem from="1759795574382" duration="27128000" />
       <workItem from="1759843133797" duration="2015000" />
-      <workItem from="1759881871954" duration="12714000" />
+      <workItem from="1759881871954" duration="13520000" />
     </task>
     <servers />
   </component>
